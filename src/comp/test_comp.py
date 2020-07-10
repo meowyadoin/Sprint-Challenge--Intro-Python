@@ -1,4 +1,7 @@
 import unittest
+# pylint: disable=W0614
+
+
 from comp import *
 
 def compare_humans(inp, exp):
